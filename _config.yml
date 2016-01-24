@@ -1,0 +1,28 @@
+name: Snackvi
+favicon: null
+layout_spectrum: 0.6947625428438187
+typography_spectrum: 0.21597255556844175
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.38769691600464284
+  lightness: 0.4166644748765975
+  saturation: 0.6722227395512164
+  rhythmicContrast: 0.4221773261670023
+purpose: []
